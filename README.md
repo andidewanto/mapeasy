@@ -16,7 +16,7 @@ Contact & bug reports: andidewanto@gmail.com
 
 ## Bahasa Indonesia
 
-Cylinder Wrap (gambar mengelilingi silinder) dan Face Fill (gambar pas ke face). Extension SketchUp gratis oleh Andi Dewanto — Windows & macOS, SketchUp 2021+. Versi **1.1.0**.
+Cylinder Wrap (gambar mengelilingi silinder) dan Face Fill (gambar pas ke face). Extension SketchUp gratis oleh Andi Dewanto · Windows & macOS, SketchUp 2021+. Versi **1.1.0**.
 
 - Situs: https://andidewanto.github.io/mapeasy/
 - Unduh: [`downloads/ad_mapeasy-1.1.0.rbz`](downloads/ad_mapeasy-1.1.0.rbz)
